@@ -1,1 +1,1 @@
-# AutoRAG
+# AgentRAG
